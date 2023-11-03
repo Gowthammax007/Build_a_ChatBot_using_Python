@@ -2,6 +2,8 @@
 
 Certainly! To run the Python code provided for chatbot data preprocessing, you'll need a Python environment set up on your system. Here are the steps to run the code along with the necessary dependencies:
 
+Dataset Link: https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
+
 1. Python Installation:
 
 If you don't have Python installed on your system, you can download and install it from the official Python website: Python Downloads. Ensure you select Python 3.x, as the code is written in Python 3.
